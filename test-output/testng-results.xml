@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-22T14:25:17 IST" name="Default suite" finished-at="2024-05-22T14:26:12 IST" duration-ms="54524">
+    <groups>
+    </groups>
+    <test started-at="2024-05-22T14:25:17 IST" name="Default test" finished-at="2024-05-22T14:26:12 IST" duration-ms="54524">
+      <class name="urbantestpackage.urbantestclass">
+        <test-method is-config="true" signature="setvalues()[pri:0, instance:urbantestpackage.urbantestclass@41fbdac4]" started-at="2024-05-22T14:25:17 IST" name="setvalues" finished-at="2024-05-22T14:25:22 IST" duration-ms="4284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setvalues -->
+        <test-method signature="lognicon()[pri:1, instance:urbantestpackage.urbantestclass@41fbdac4]" started-at="2024-05-22T14:25:22 IST" name="lognicon" finished-at="2024-05-22T14:25:26 IST" duration-ms="4198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lognicon -->
+        <test-method signature="logintosite()[pri:2, instance:urbantestpackage.urbantestclass@41fbdac4]" started-at="2024-05-22T14:25:26 IST" name="logintosite" finished-at="2024-05-22T14:25:40 IST" duration-ms="14158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintosite -->
+        <test-method signature="pdctclick()[pri:3, instance:urbantestpackage.urbantestclass@41fbdac4]" started-at="2024-05-22T14:25:40 IST" name="pdctclick" finished-at="2024-05-22T14:25:53 IST" duration-ms="12886" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pdctclick -->
+        <test-method signature="secondpdtclick()[pri:4, instance:urbantestpackage.urbantestclass@41fbdac4]" started-at="2024-05-22T14:25:53 IST" name="secondpdtclick" finished-at="2024-05-22T14:26:00 IST" duration-ms="7009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondpdtclick -->
+        <test-method signature="checkoutclickk()[pri:5, instance:urbantestpackage.urbantestclass@41fbdac4]" started-at="2024-05-22T14:26:00 IST" name="checkoutclickk" finished-at="2024-05-22T14:26:05 IST" duration-ms="5549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutclickk -->
+        <test-method signature="backtohome()[pri:6, instance:urbantestpackage.urbantestclass@41fbdac4]" started-at="2024-05-22T14:26:05 IST" name="backtohome" finished-at="2024-05-22T14:26:07 IST" duration-ms="1945" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backtohome -->
+        <test-method signature="logout()[pri:7, instance:urbantestpackage.urbantestclass@41fbdac4]" started-at="2024-05-22T14:26:07 IST" name="logout" finished-at="2024-05-22T14:26:12 IST" duration-ms="4465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- urbantestpackage.urbantestclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
